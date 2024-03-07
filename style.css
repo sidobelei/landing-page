@@ -114,3 +114,24 @@ button {
     width: 160px;
     height: 160px;
 }
+
+.quote-container {
+    background-color: #E5E7EB;
+    padding: 130px 240px;
+
+}
+
+.quote {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    margin: 0;
+}
+
+.author {
+    text-align: right;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
