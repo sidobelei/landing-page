@@ -135,3 +135,39 @@ button {
     font-size: 25px;
     font-weight: bold;
 }
+
+.call-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.call-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+    width: 800px;
+    padding: 50px 100px;
+    border-radius: 6px;
+
+}
+
+.call-header {
+    color: white;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.call-text {
+    color: #E5E7EB;
+    font-size: 18px;
+
+}
+
+.action-button {
+    border: solid white;
+    font-size: 16px;
+}
